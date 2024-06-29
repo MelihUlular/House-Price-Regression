@@ -14,7 +14,7 @@ The dataset contains 1460 observations of 80 features, including numerical and c
 - Support Vector Regression (SVR)
 - k-Nearest Neighbors Regression (kNN)
 - Decision Tree Regression
-- 
+  
 ### Evaluation Metrics
 - R2 Score
 - Mean Squared Error (MSE)
